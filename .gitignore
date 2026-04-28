@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/
+EuroSAT_RGB/
+hw1.pdf
+*.npz
+*.zip
